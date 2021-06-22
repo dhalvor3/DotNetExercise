@@ -1,0 +1,2 @@
+# DotNetExercise
+for first lesson
